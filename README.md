@@ -9,6 +9,6 @@ Shortcode to display number of users with selected status
 5. [number_of_users status="rejected"]
 
 ## Installation
-Add the code snippet <code>source.php</code> to your child-theme’s functions.php file except the <code><?php</code> at the first line or add to the “Code Snippets” plugin
+Add the code snippet <code>source.php</code> to your child-theme’s functions.php file except the <code><?php</code> at the first line or add the code snippet to the “Code Snippets” plugin
 
 https://wordpress.org/plugins/code-snippets/
