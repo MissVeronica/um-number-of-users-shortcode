@@ -1,5 +1,5 @@
 # UM Number of Users shortcode
-Shortcode to display number of users with selected status
+Shortcode to display number of Users with selected status
 
 ## Examples
 1. [number_of_users status="approved"]
